@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Viagogo_Assessment.Models
+namespace Azenia_Assessment.Models
 {
     public class Customer
     {
